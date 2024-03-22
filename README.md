@@ -6,7 +6,7 @@
 - I am doing competitive programming
 - interestd in web developlment
 - 💞️ I’m looking to collaborate on ...c++ progamming oops theory
-- From SLIET,longowal (punjub)
+- From SLIET,longowal (punjab)
 -  
 <!---
 Mickyverma24/Mickyverma24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
