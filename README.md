@@ -29,7 +29,7 @@ Here are a few projects I've worked on:
    GitHub: [Tasks](https://github.com/Mickyverma24/Springboot-Todo-Version-1)
 
 ## Resume
-You can find my detailed resume [Click Here](https://drive.google.com/file/d/19lBPcinkQuMmlUnsp7HDVAp07Jh1i-Wg/view?usp=sharing).
+You can find my detailed resume [Click Here](https://drive.google.com/file/d/1XeD1hf0siSaV5EtfAQ10Ee9EzQhNxxhL/view?usp=sharing).
 
 ## Get in Touch
 - LinkedIn: [Ravi Verma](https://www.linkedin.com/in/ravi-verma-a1a643247/)
