@@ -1,8 +1,12 @@
 # Hello, I'm Ravi Verma 👋
 
 ## About Me
-I'm a final year Computer Science student with a passion for full-stack development. I specialize in the Backend devloper and have experience with Node.js, Express, Python(FastAPI), MongoDB, SQL as well C++, C, and JavaScript.
-
+I'm a Computer Science graduate with a passion for software engineering. I specialize in the Backend devlopment and have experience with Node.js, Express, Python(FastAPI), MongoDB, SQL as well C++, C, and JavaScript.
+## Experence 
+Backend Developer [Truxt.ai](https://truxt.ai/)
+- Developed and maintained RESTful APIs in Node.js to handle user requests for the SaaS platform.
+- Built data extraction and ingestion pipelines using Python FastAPI to integrate web data into vector databases.
+- Managed deployments and infrastructure on Azure and GCP, ensuring smooth releases and server performance.
 ## Skills
 - Frontend: React.js, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js, Python, FastAPI
@@ -28,7 +32,7 @@ Here are a few projects I've worked on:
 
 
 ## Resume
-You can find my detailed resume [Click Here](https://drive.google.com/file/d/1_cOVJyHlCTXgdl4dDLmlQ6J5hcwIMmWl/view?usp=sharing).
+You can find my detailed resume [Click Here](https://drive.google.com/file/d/1fUk-QK1UYQg297h69nK-FAsiopONKPDf/view?usp=sharing).
 
 ## Get in Touch
 - LinkedIn: [Ravi Verma](https://www.linkedin.com/in/ravi-verma-a1a643247/)
