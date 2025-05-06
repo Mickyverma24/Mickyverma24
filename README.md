@@ -1,32 +1,31 @@
 # Hello, I'm Ravi Verma 👋
 
 ## About Me
-I'm a final year Computer Science student with a passion for full-stack development. I specialize in the MERN stack and have experience with React, Express, Node.js, MongoDB, as well as Java, Spring, Spring Boot, C++, C, and JavaScript.
+I'm a final year Computer Science student with a passion for full-stack development. I specialize in the Backend devloper and have experience with Node.js, Express, Python(FastAPI), MongoDB, SQL as well C++, C, and JavaScript.
 
 ## Skills
 - Frontend: React.js, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js, Spring, Spring Boot
+- Backend: Node.js, Express.js, Python, FastAPI
 - Database: MongoDB, MySQL
-- Programming Languages: Java, C++, C, JavaScript
-- Other: Git, RESTful APIs
+- Programming Languages: Javascript, Python, C++
+- Cloud: Azure, GCP
+- Other: Git, RESTful APIs, Socket.io, Coolify
+  
 
 ## Projects
 Here are a few projects I've worked on:
+1. **Performance Moniter**
+   Description: Real time Monitoring platform for multiple server performance at one dashbaord.
+   Tech Stack: React, Node.js, Python, Socket.io, Redis, MongoDB, Cron Jobs.
+   Link:[Here](https://pmfrontend.netlify.app/login).
+   GitHub: [Server](https://github.com/Mickyverma24/performance-hub-server) [Frontend](https://github.com/Mickyverma24/pm-frontend) [Client cli](https://github.com/Mickyverma24/client-cli).
 
-1. **ExpertEase**
+3. **ExpertEase**
    Description: Real time chatting application.
    Tech Stack: React, Node.js, MongoDB, Socket.io
    GitHub: [ExpertEase](https://github.com/Mickyverma24/ExpertEase).
 
-2. **Dev Blogs**
-   Description: Blogs website.
-   Tech Stack: React, Node.js, MongoDB
-   GitHub: [Blogs](https://github.com/Mickyverma24/Dev-blog-frontend)
 
-3. **Task Manager**
-   Description: Manage your Todos.
-   Tech Stack: React, Express.js, MongoDB
-   GitHub: [Tasks](https://github.com/Mickyverma24/Springboot-Todo-Version-1)
 
 ## Resume
 You can find my detailed resume [Click Here](https://drive.google.com/file/d/1_cOVJyHlCTXgdl4dDLmlQ6J5hcwIMmWl/view?usp=sharing).
