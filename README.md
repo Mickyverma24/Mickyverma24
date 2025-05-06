@@ -21,8 +21,7 @@ Here are a few projects I've worked on:
 1. **Performance Moniter**
    Description: Real time Monitoring platform for multiple server performance at one dashbaord.
    Tech Stack: React, Node.js, Python, Socket.io, Redis, MongoDB, Cron Jobs.
-   Link:[Here](https://pmfrontend.netlify.app/login).
-   GitHub: [Server](https://github.com/Mickyverma24/performance-hub-server) [Frontend](https://github.com/Mickyverma24/pm-frontend) [Client cli](https://github.com/Mickyverma24/client-cli).
+   GitHub: [Server](https://github.com/Mickyverma24/performance-hub-server), [Frontend](https://github.com/Mickyverma24/pm-frontend), [Client cli](https://github.com/Mickyverma24/client-cli).
 
 3. **ExpertEase**
    Description: Real time chatting application.
