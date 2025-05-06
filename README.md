@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a Computer Science graduate with a passion for software engineering. I specialize in the Backend devlopment and have experience with Node.js, Express, Python(FastAPI), MongoDB, SQL as well C++, C, and JavaScript.
-## Experence 
+## Experience 
 Backend Developer [Truxt.ai](https://truxt.ai/)
 - Developed and maintained RESTful APIs in Node.js to handle user requests for the SaaS platform.
 - Built data extraction and ingestion pipelines using Python FastAPI to integrate web data into vector databases.
